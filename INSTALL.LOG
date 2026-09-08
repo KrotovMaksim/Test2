@@ -1,0 +1,479 @@
+***  Installation Started 04/04/2026 20:47  ***
+Title:  HighGrow 4.20 Installation
+Source: C:\Users\max_k\Downloads\highgrow420\HighGrow_420.exe
+File Copy: C:\Windows\System32\Robbie.dll
+Made Dir: D:\games\HighGrow
+File Copy: D:\games\HighGrow\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: HighGrow Freeware Version 4.20
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: D:\games\HighGrow\UNWISE.EXE D:\games\HighGrow\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: D:\games\HighGrow\HighGrow.exe
+File Copy: D:\games\HighGrow\Comments.dll
+File Copy: D:\games\HighGrow\Robbie.dll
+File Copy: D:\games\HighGrow\HighGrow.chm
+File Copy: D:\games\HighGrow\BigLeaf.dat
+File Copy: D:\games\HighGrow\Harvest.dat
+Made Dir: D:\games\HighGrow\MIDI
+File Copy: D:\games\HighGrow\MIDI\Vince - Boyous Clandour.mid
+File Copy: D:\games\HighGrow\MIDI\Vince - HighGrow.mid
+File Copy: D:\games\HighGrow\MIDI\Vince - Legal Fun(k).mid
+File Copy: D:\games\HighGrow\MIDI\Vince - Mellow and Mild.mid
+File Copy: D:\games\HighGrow\MIDI\Vince - Sensual Whispers.mid
+File Copy: D:\games\HighGrow\MIDI\Vince - Skunky Slap.mid
+File Copy: D:\games\HighGrow\MIDI\Vince - Weird Suzy.mid
+File Copy: D:\games\HighGrow\MIDI\Vince - Don't Want a Hat.mid
+File Copy: D:\games\HighGrow\MIDI\Vince - Wake-up Call.mid
+File Copy: D:\games\HighGrow\MIDI\Vince - Blues for Birds.mid
+File Copy: D:\games\HighGrow\MIDI\Vince - DannyB Jazz.mid
+Made Dir: D:\games\HighGrow\MP3
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: D:\games\HighGrow
+RegDB Name: Startup in
+RegDB Root: 1
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: Yes
+RegDB Name: Alarm Clock
+RegDB Root: 1
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: Hey Dude, its time for a smoke break!
+RegDB Name: Alarm Text
+RegDB Root: 1
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 4
+RegDB Name: Alarm Hours
+RegDB Root: 1
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 20
+RegDB Name: Alarm Minutes
+RegDB Root: 1
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 1
+RegDB Name: Alarm AMPM
+RegDB Root: 1
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 0
+RegDB Name: Cheat Count
+RegDB Root: 1
+RegDB Key: highgrow
+RegDB Val: highgrow:URL Protocol
+RegDB Key: highgrow
+RegDB Val: 
+RegDB Name: URL Protocol
+RegDB Key: highgrow\DefaultIcon
+RegDB Val: "D:\games\HighGrow\HighGrow.exe"
+RegDB Key: highgrow\shell
+RegDB Val: 
+RegDB Root: 0
+RegDB Key: highgrow\shell\open
+RegDB Val: 
+RegDB Root: 0
+RegDB Key: highgrow\shell\open\command
+RegDB Val: "D:\games\HighGrow\HighGrow.exe" %1
+Shell Link: D:\games\HighGrow\HighGrow.lnk
+Made Dir: C:\Users\max_k\Desktop
+Shell Link: C:\Users\max_k\Desktop\HighGrow - Legal Marijuana Growing.lnk
+Made Dir: C:\Users\max_k\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HighGrow 4.20
+Shell Link: C:\Users\max_k\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HighGrow 4.20\HighGrow - Legal Marijuana Growing.lnk
+Shell Link: C:\Users\max_k\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HighGrow 4.20\HighGrow - Version 4.20 Help.lnk
+Could not Self-Register: C:\Windows\System32\Robbie.dll
+Could not Self-Register: D:\games\HighGrow\Comments.dll
+Could not Self-Register: D:\games\HighGrow\Robbie.dll
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: 4.20
+RegDB Name: DisplayVersion
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: www.highgrow.us
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: Slick Software
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: www.highgrow.us
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: Paul
+RegDB Name: Contact
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: HighGrow - Legal Marijuana Growing
+RegDB Name: Comments
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 06/13/2026 1:18  ***
+Title:  HighGrow 4.20 Installation
+Source: D:\Downloads\highgrow420\HighGrow_420.exe
+File Copy: C:\Windows\System32\Robbie.dll
+File Overwrite: D:\games\HighGrow\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: HighGrow Freeware Version 4.20
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: HighGrow Freeware Version 4.20
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: D:\games\HighGrow\UNWISE.EXE D:\games\HighGrow\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: D:\games\HighGrow\UNWISE.EXE D:\games\HighGrow\INSTALL.LOG
+File Overwrite: D:\games\HighGrow\HighGrow.exe
+File Overwrite: D:\games\HighGrow\Comments.dll
+File Overwrite: D:\games\HighGrow\Robbie.dll
+File Overwrite: D:\games\HighGrow\HighGrow.chm
+File Overwrite: D:\games\HighGrow\BigLeaf.dat
+File Overwrite: D:\games\HighGrow\Harvest.dat
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Boyous Clandour.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - HighGrow.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Legal Fun(k).mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Mellow and Mild.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Sensual Whispers.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Skunky Slap.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Weird Suzy.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Don't Want a Hat.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Wake-up Call.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Blues for Birds.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - DannyB Jazz.mid
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: D:\games\HighGrow
+RegDB Name: Startup in
+RegDB Root: 1
+RegDB Old: D:\games\HighGrow
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: Yes
+RegDB Name: Alarm Clock
+RegDB Root: 1
+RegDB Old: No
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: Hey Dude, its time for a smoke break!
+RegDB Name: Alarm Text
+RegDB Root: 1
+RegDB Old: Hey Dude, its time for a smoke break!
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 4
+RegDB Name: Alarm Hours
+RegDB Root: 1
+RegDB Old: 4
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 20
+RegDB Name: Alarm Minutes
+RegDB Root: 1
+RegDB Old: 20
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 1
+RegDB Name: Alarm AMPM
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 0
+RegDB Name: Cheat Count
+RegDB Root: 1
+RegDB Old: -366
+RegDB Key: highgrow
+RegDB Val: highgrow:URL Protocol
+RegDB Old: highgrow:URL Protocol
+RegDB Key: highgrow
+RegDB Val: 
+RegDB Name: URL Protocol
+RegDB Key: highgrow\DefaultIcon
+RegDB Val: "D:\games\HighGrow\HighGrow.exe"
+RegDB Old: "D:\games\HighGrow\HighGrow.exe"
+RegDB Key: highgrow\shell
+RegDB Val: 
+RegDB Root: 0
+RegDB Key: highgrow\shell\open
+RegDB Val: 
+RegDB Root: 0
+RegDB Key: highgrow\shell\open\command
+RegDB Val: "D:\games\HighGrow\HighGrow.exe" %1
+RegDB Old: "D:\games\HighGrow\HighGrow.exe" %1
+Shell Link: D:\games\HighGrow\HighGrow.lnk
+Shell Link: C:\Users\max_k\Desktop\HighGrow - Legal Marijuana Growing.lnk
+Shell Link: C:\Users\max_k\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HighGrow 4.20\HighGrow - Legal Marijuana Growing.lnk
+Shell Link: C:\Users\max_k\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HighGrow 4.20\HighGrow - Version 4.20 Help.lnk
+Could not Self-Register: C:\Windows\System32\Robbie.dll
+Could not Self-Register: D:\games\HighGrow\Comments.dll
+Could not Self-Register: D:\games\HighGrow\Robbie.dll
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: 4.20
+RegDB Name: DisplayVersion
+RegDB Root: 2
+RegDB Old: 4.20
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: www.highgrow.us
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: www.highgrow.us
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: Slick Software
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Slick Software
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: www.highgrow.us
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: www.highgrow.us
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: Paul
+RegDB Name: Contact
+RegDB Root: 2
+RegDB Old: Paul
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: HighGrow - Legal Marijuana Growing
+RegDB Name: Comments
+RegDB Root: 2
+RegDB Old: HighGrow - Legal Marijuana Growing
+User Rights: Admin
+***  Installation Started 06/13/2026 13:22  ***
+Title:  HighGrow 4.20 Installation
+Source: D:\Downloads\highgrow420\HighGrow_420.exe
+File Copy: C:\Windows\System32\Robbie.dll
+File Overwrite: D:\games\HighGrow\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: HighGrow Freeware Version 4.20
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: HighGrow Freeware Version 4.20
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: D:\games\HighGrow\UNWISE.EXE D:\games\HighGrow\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: D:\games\HighGrow\UNWISE.EXE D:\games\HighGrow\INSTALL.LOG
+File Overwrite: D:\games\HighGrow\HighGrow.exe
+File Overwrite: D:\games\HighGrow\Comments.dll
+File Overwrite: D:\games\HighGrow\Robbie.dll
+File Overwrite: D:\games\HighGrow\HighGrow.chm
+File Overwrite: D:\games\HighGrow\BigLeaf.dat
+File Overwrite: D:\games\HighGrow\Harvest.dat
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Boyous Clandour.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - HighGrow.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Legal Fun(k).mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Mellow and Mild.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Sensual Whispers.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Skunky Slap.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Weird Suzy.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Don't Want a Hat.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Wake-up Call.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Blues for Birds.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - DannyB Jazz.mid
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: D:\games\HighGrow
+RegDB Name: Startup in
+RegDB Root: 1
+RegDB Old: D:\games\HighGrow
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: Yes
+RegDB Name: Alarm Clock
+RegDB Root: 1
+RegDB Old: No
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: Hey Dude, its time for a smoke break!
+RegDB Name: Alarm Text
+RegDB Root: 1
+RegDB Old: Hey Dude, its time for a smoke break!
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 4
+RegDB Name: Alarm Hours
+RegDB Root: 1
+RegDB Old: 4
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 20
+RegDB Name: Alarm Minutes
+RegDB Root: 1
+RegDB Old: 20
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 1
+RegDB Name: Alarm AMPM
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 0
+RegDB Name: Cheat Count
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: highgrow
+RegDB Val: highgrow:URL Protocol
+RegDB Old: highgrow:URL Protocol
+RegDB Key: highgrow
+RegDB Val: 
+RegDB Name: URL Protocol
+RegDB Key: highgrow\DefaultIcon
+RegDB Val: "D:\games\HighGrow\HighGrow.exe"
+RegDB Old: "D:\games\HighGrow\HighGrow.exe"
+RegDB Key: highgrow\shell
+RegDB Val: 
+RegDB Root: 0
+RegDB Key: highgrow\shell\open
+RegDB Val: 
+RegDB Root: 0
+RegDB Key: highgrow\shell\open\command
+RegDB Val: "D:\games\HighGrow\HighGrow.exe" %1
+RegDB Old: "D:\games\HighGrow\HighGrow.exe" %1
+Shell Link: D:\games\HighGrow\HighGrow.lnk
+Shell Link: C:\Users\max_k\Desktop\HighGrow - Legal Marijuana Growing.lnk
+Shell Link: C:\Users\max_k\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HighGrow 4.20\HighGrow - Legal Marijuana Growing.lnk
+Shell Link: C:\Users\max_k\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HighGrow 4.20\HighGrow - Version 4.20 Help.lnk
+Could not Self-Register: C:\Windows\System32\Robbie.dll
+Could not Self-Register: D:\games\HighGrow\Comments.dll
+Could not Self-Register: D:\games\HighGrow\Robbie.dll
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: 4.20
+RegDB Name: DisplayVersion
+RegDB Root: 2
+RegDB Old: 4.20
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: www.highgrow.us
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: www.highgrow.us
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: Slick Software
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Slick Software
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: www.highgrow.us
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: www.highgrow.us
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: Paul
+RegDB Name: Contact
+RegDB Root: 2
+RegDB Old: Paul
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: HighGrow - Legal Marijuana Growing
+RegDB Name: Comments
+RegDB Root: 2
+RegDB Old: HighGrow - Legal Marijuana Growing
+User Rights: Admin
+***  Installation Started 06/13/2026 17:49  ***
+Title:  HighGrow 4.20 Installation
+Source: D:\Zona Downloads\Симулятор выращивания марихуаны\highgrow420.exe
+File Copy: C:\Windows\System32\Robbie.dll
+File Overwrite: D:\games\HighGrow\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: HighGrow Freeware Version 4.20
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: HighGrow Freeware Version 4.20
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: D:\games\HighGrow\UNWISE.EXE D:\games\HighGrow\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: D:\games\HighGrow\UNWISE.EXE D:\games\HighGrow\INSTALL.LOG
+File Overwrite: D:\games\HighGrow\HighGrow.exe
+File Overwrite: D:\games\HighGrow\Comments.dll
+File Overwrite: D:\games\HighGrow\Robbie.dll
+File Overwrite: D:\games\HighGrow\HighGrow.chm
+File Overwrite: D:\games\HighGrow\BigLeaf.dat
+File Overwrite: D:\games\HighGrow\Harvest.dat
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Boyous Clandour.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - HighGrow.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Legal Fun(k).mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Mellow and Mild.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Sensual Whispers.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Skunky Slap.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Weird Suzy.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Don't Want a Hat.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Wake-up Call.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - Blues for Birds.mid
+File Overwrite: D:\games\HighGrow\MIDI\Vince - DannyB Jazz.mid
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: D:\games\HighGrow
+RegDB Name: Startup in
+RegDB Root: 1
+RegDB Old: D:\games\HighGrow
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: Yes
+RegDB Name: Alarm Clock
+RegDB Root: 1
+RegDB Old: No
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: Hey Dude, its time for a smoke break!
+RegDB Name: Alarm Text
+RegDB Root: 1
+RegDB Old: Hey Dude, its time for a smoke break!
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 4
+RegDB Name: Alarm Hours
+RegDB Root: 1
+RegDB Old: 4
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 20
+RegDB Name: Alarm Minutes
+RegDB Root: 1
+RegDB Old: 20
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 1
+RegDB Name: Alarm AMPM
+RegDB Root: 1
+RegDB Old: 1
+RegDB Key: Software\Slick Software\HighGrow
+RegDB Val: 0
+RegDB Name: Cheat Count
+RegDB Root: 1
+RegDB Old: 0
+RegDB Key: highgrow
+RegDB Val: highgrow:URL Protocol
+RegDB Old: highgrow:URL Protocol
+RegDB Key: highgrow
+RegDB Val: 
+RegDB Name: URL Protocol
+RegDB Key: highgrow\DefaultIcon
+RegDB Val: "D:\games\HighGrow\HighGrow.exe"
+RegDB Old: "D:\games\HighGrow\HighGrow.exe"
+RegDB Key: highgrow\shell
+RegDB Val: 
+RegDB Root: 0
+RegDB Key: highgrow\shell\open
+RegDB Val: 
+RegDB Root: 0
+RegDB Key: highgrow\shell\open\command
+RegDB Val: "D:\games\HighGrow\HighGrow.exe" %1
+RegDB Old: "D:\games\HighGrow\HighGrow.exe" %1
+Shell Link: D:\games\HighGrow\HighGrow.lnk
+Shell Link: C:\Users\max_k\Desktop\HighGrow - Legal Marijuana Growing.lnk
+Shell Link: C:\Users\max_k\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HighGrow 4.20\HighGrow - Legal Marijuana Growing.lnk
+Shell Link: C:\Users\max_k\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HighGrow 4.20\HighGrow - Version 4.20 Help.lnk
+Could not Self-Register: C:\Windows\System32\Robbie.dll
+Could not Self-Register: D:\games\HighGrow\Comments.dll
+Could not Self-Register: D:\games\HighGrow\Robbie.dll
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: 4.20
+RegDB Name: DisplayVersion
+RegDB Root: 2
+RegDB Old: 4.20
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: www.highgrow.us
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: www.highgrow.us
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: Slick Software
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Slick Software
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: www.highgrow.us
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: www.highgrow.us
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: Paul
+RegDB Name: Contact
+RegDB Root: 2
+RegDB Old: Paul
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\HighGrow Freeware Version 4.20
+RegDB Val: HighGrow - Legal Marijuana Growing
+RegDB Name: Comments
+RegDB Root: 2
+RegDB Old: HighGrow - Legal Marijuana Growing
+User Rights: Admin
